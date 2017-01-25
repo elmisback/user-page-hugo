@@ -1,0 +1,8 @@
+languageCode = "en-us"
+title = "Edward Misback"
+baseURL = ""
+MetaDataFormat = "toml"
+pygmentsuseclasses = true
+
+[Params]
+  DateForm="Jan _3 2002"
